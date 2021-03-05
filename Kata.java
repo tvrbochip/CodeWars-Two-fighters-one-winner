@@ -1,3 +1,16 @@
+class Fighter {
+  public String name;
+  public int health, damagePerAttack;
+  public Fighter(String name, int health, int damagePerAttack) {
+    this.name = name;
+    this.health = health;
+    this.damagePerAttack = damagePerAttack;
+  }
+}
+
+
+// in my solution i decided to change the names to shorter versions
+// 1 variant below
 public class Kata {
   public static String declareWinner(Fighter f1, Fighter f2, String fa) {
 

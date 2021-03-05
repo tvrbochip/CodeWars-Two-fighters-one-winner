@@ -10,7 +10,7 @@ class Fighter {
 
 
 // in my solution i decided to change the names to shorter versions
-// 1 variant below
+
 public class Kata {
   public static String declareWinner(Fighter f1, Fighter f2, String fa) {
 

@@ -1,3 +1,5 @@
+# CodeWars-Two-fighters-one-winner
+
 Two fighters, one winner.
 
 Create a function that returns the name of the winner in a fight between two fighters.
